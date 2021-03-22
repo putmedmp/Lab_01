@@ -20,7 +20,7 @@
 
 ## Overview
 The appearance of a running application:
-![App]();
+![App](https://github.com/putmedmp/Algorithms_part_1/blob/master/App.PNG?raw=true)
 
 ---
 
